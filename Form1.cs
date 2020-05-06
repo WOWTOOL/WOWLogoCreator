@@ -534,7 +534,7 @@ namespace WindowsFormsApplication1
       this.trackBar1.Value = 0;
       this.trackBar2.Value = 0;
       this.trackBar3.Value = 0;
-      this.trackBar4.Value = 100;
+      this.trackBar4.Value = 0;
       this.Draw();
     }
 
